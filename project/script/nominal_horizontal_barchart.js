@@ -6,7 +6,7 @@ var width = w - margin.left - margin.right;
 var height = h - margin.top - margin.bottom;
 
 d3.csv(
-  "https://raw.githubusercontent.com/trantien0410/Data-Visualization-Project/main/data/nominal_fail.csv",
+  "https://raw.githubusercontent.com/trantien0410/Data-Visualization-Project/master/project/data/nominal_fail.csv",
   function (data) {
     // Create barchart internet fail element
     var barchart_internet_fail = d3
@@ -54,7 +54,7 @@ d3.csv(
 );
 
 d3.csv(
-  "https://raw.githubusercontent.com/trantien0410/Data-Visualization-Project/main/data/nominal_medium.csv",
+  "https://raw.githubusercontent.com/trantien0410/Data-Visualization-Project/master/project/data/nominal_medium.csv",
   function (data) {
     // Create barchart internet medium element
     var barchart_internet_medium = d3
@@ -102,7 +102,7 @@ d3.csv(
 );
 
 d3.csv(
-  "https://raw.githubusercontent.com/trantien0410/Data-Visualization-Project/main/data/nominal_good.csv",
+  "https://raw.githubusercontent.com/trantien0410/Data-Visualization-Project/master/project/data/nominal_good.csv",
   function (data) {
     // Create barchart internet good element
     var barchart_internet_good = d3
@@ -150,7 +150,7 @@ d3.csv(
 );
 
 d3.csv(
-  "https://raw.githubusercontent.com/trantien0410/Data-Visualization-Project/main/data/nominal_excellent.csv",
+  "https://raw.githubusercontent.com/trantien0410/Data-Visualization-Project/master/project/data/nominal_excellent.csv",
   function (data) {
     // Create barchart internet good element
     var barchart_internet_excellent = d3
@@ -199,7 +199,7 @@ d3.csv(
 
 /* ---------------------------------------- Barchart of the activity fail ---------------------------------------- */
 d3.csv(
-  "https://raw.githubusercontent.com/trantien0410/Data-Visualization-Project/main/data/nominal_fail.csv",
+  "https://raw.githubusercontent.com/trantien0410/Data-Visualization-Project/master/project/data/nominal_fail.csv",
   function (data) {
     // Create barchart activity fail element
     var barchart_activity_fail = d3
@@ -248,7 +248,7 @@ d3.csv(
 
 /* ---------------------------------------- Barchart of the activity medium ---------------------------------------- */
 d3.csv(
-  "https://raw.githubusercontent.com/trantien0410/Data-Visualization-Project/main/data/nominal_medium.csv",
+  "https://raw.githubusercontent.com/trantien0410/Data-Visualization-Project/master/project/data/nominal_medium.csv",
   function (data) {
     // Create barchart activity fail element
     var barchart_activity_medium = d3
@@ -297,7 +297,7 @@ d3.csv(
 
 /* ---------------------------------------- Barchart of the activity good ---------------------------------------- */
 d3.csv(
-  "https://raw.githubusercontent.com/trantien0410/Data-Visualization-Project/main/data/nominal_good.csv",
+  "https://raw.githubusercontent.com/trantien0410/Data-Visualization-Project/master/project/data/nominal_good.csv",
   function (data) {
     // Create barchart activity good element
     var barchart_activity_good = d3
@@ -346,7 +346,7 @@ d3.csv(
 
 /* ------------------------------------------ Barchart of the activity excellent ------------------------------------------ */
 d3.csv(
-  "https://raw.githubusercontent.com/trantien0410/Data-Visualization-Project/main/data/nominal_excellent.csv",
+  "https://raw.githubusercontent.com/trantien0410/Data-Visualization-Project/master/project/data/nominal_excellent.csv",
   function (data) {
     // Create barchart activity good element
     var barchart_activity_excellent = d3
@@ -394,7 +394,7 @@ d3.csv(
 );
 
 d3.csv(
-  "https://raw.githubusercontent.com/trantien0410/Data-Visualization-Project/main/data/nominal_fail.csv",
+  "https://raw.githubusercontent.com/trantien0410/Data-Visualization-Project/master/project/data/nominal_fail.csv",
   function (data) {
     // Create barchart sex fail element
     var barchart_sex_fail = d3
@@ -442,7 +442,7 @@ d3.csv(
 );
 
 d3.csv(
-  "https://raw.githubusercontent.com/trantien0410/Data-Visualization-Project/main/data/nominal_medium.csv",
+  "https://raw.githubusercontent.com/trantien0410/Data-Visualization-Project/master/project/data/nominal_medium.csv",
   function (data) {
     // Create barchart sex medium element
     var barchart_sex_medium = d3
@@ -490,7 +490,7 @@ d3.csv(
 );
 
 d3.csv(
-  "https://raw.githubusercontent.com/trantien0410/Data-Visualization-Project/main/data/nominal_good.csv",
+  "https://raw.githubusercontent.com/trantien0410/Data-Visualization-Project/master/project/data/nominal_good.csv",
   function (data) {
     // Create barchart sex good element
     var barchart_sex_good = d3
@@ -538,7 +538,7 @@ d3.csv(
 );
 
 d3.csv(
-  "https://raw.githubusercontent.com/trantien0410/Data-Visualization-Project/main/data/nominal_excellent.csv",
+  "https://raw.githubusercontent.com/trantien0410/Data-Visualization-Project/master/project/data/nominal_excellent.csv",
   function (data) {
     // Create barchart sex excellent element
     var barchart_sex_excellent = d3
@@ -586,7 +586,7 @@ d3.csv(
 );
 
 d3.csv(
-  "https://raw.githubusercontent.com/trantien0410/Data-Visualization-Project/main/data/nominal_fail.csv",
+  "https://raw.githubusercontent.com/trantien0410/Data-Visualization-Project/master/project/data/nominal_fail.csv",
   function (data) {
     // Create barchart relationship fail element
     var barchart_relationship_fail = d3
@@ -634,7 +634,7 @@ d3.csv(
 );
 
 d3.csv(
-  "https://raw.githubusercontent.com/trantien0410/Data-Visualization-Project/main/data/nominal_medium.csv",
+  "https://raw.githubusercontent.com/trantien0410/Data-Visualization-Project/master/project/data/nominal_medium.csv",
   function (data) {
     // Create barchart relationship medium element
     var barchart_relationship_medium = d3
@@ -682,7 +682,7 @@ d3.csv(
 );
 
 d3.csv(
-  "https://raw.githubusercontent.com/trantien0410/Data-Visualization-Project/main/data/nominal_good.csv",
+  "https://raw.githubusercontent.com/trantien0410/Data-Visualization-Project/master/project/data/nominal_good.csv",
   function (data) {
     // Create barchart relationship medium element
     var barchart_relationship_good = d3
@@ -730,7 +730,7 @@ d3.csv(
 );
 
 d3.csv(
-  "https://raw.githubusercontent.com/trantien0410/Data-Visualization-Project/main/data/nominal_excellent.csv",
+  "https://raw.githubusercontent.com/trantien0410/Data-Visualization-Project/master/project/data/nominal_excellent.csv",
   function (data) {
     // Create barchart relationship medium element
     var barchart_relationship_excellent = d3

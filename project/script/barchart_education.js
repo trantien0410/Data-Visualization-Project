@@ -7,7 +7,7 @@ var height = h - margin.top - margin.bottom;
 
 /* ----------------------------------- Barchart of mother education result ----------------------------------- */
 d3.csv(
-  "https://raw.githubusercontent.com/trantien0410/Data-Visualization-Project/main/data/Medu_result.csv",
+  "https://raw.githubusercontent.com/trantien0410/Data-Visualization-Project/master/project/data/Medu_result.csv",
   function (data) {
     // Create barchart element
     var barchart_medu = d3
@@ -120,7 +120,7 @@ d3.csv(
 
 /* ----------------------------------- Barchart of father education result ----------------------------------- */
 d3.csv(
-  "https://raw.githubusercontent.com/trantien0410/Data-Visualization-Project/main/data/Fedu_result.csv",
+  "https://raw.githubusercontent.com/trantien0410/Data-Visualization-Project/master/project/data/Fedu_result.csv",
   function (data) {
     // Create barchart element
     var barchart_fedu = d3

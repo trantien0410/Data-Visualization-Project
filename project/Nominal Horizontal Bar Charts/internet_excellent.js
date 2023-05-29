@@ -1,5 +1,5 @@
 d3.csv(
-  "https://raw.githubusercontent.com/trantien0410/Data-Visualization-Project/main/data/nominal_excellent.csv",
+  "https://raw.githubusercontent.com/trantien0410/Data-Visualization-Project/master/project/data/nominal_excellent.csv",
   function (data) {
     //All the variables
     var margin = { top: 10, right: 30, bottom: 30, left: 100 },

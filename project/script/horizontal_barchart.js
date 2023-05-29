@@ -7,7 +7,7 @@ var height = h - margin.top - margin.bottom;
 
 /* ------------------------------------ Barchart of the father job fail ------------------------------------ */
 d3.csv(
-  "https://raw.githubusercontent.com/trantien0410/Data-Visualization-Project/main/data/job_fail.csv",
+  "https://raw.githubusercontent.com/trantien0410/Data-Visualization-Project/master/project/data/job_fail.csv",
   function (data) {
     // Create barchart father job fail element
     var barchart_fjob_fail = d3
@@ -61,7 +61,7 @@ d3.csv(
 
 /* ------------------------------------ Barchart of the father job medium ------------------------------------ */
 d3.csv(
-  "https://raw.githubusercontent.com/trantien0410/Data-Visualization-Project/main/data/job_medium.csv",
+  "https://raw.githubusercontent.com/trantien0410/Data-Visualization-Project/master/project/data/job_medium.csv",
   function (data) {
     // Create barchart father job medium element
     var barchart_fmedium_fail = d3
@@ -115,7 +115,7 @@ d3.csv(
 
 /* ------------------------------------ Barchart of the father job good ------------------------------------ */
 d3.csv(
-  "https://raw.githubusercontent.com/trantien0410/Data-Visualization-Project/main/data/job_good.csv",
+  "https://raw.githubusercontent.com/trantien0410/Data-Visualization-Project/master/project/data/job_good.csv",
   function (data) {
     // Create barchart father good job element
     var barchart_fgood_fail = d3
@@ -169,7 +169,7 @@ d3.csv(
 
 /* ------------------------------------ Barchart of the father job excellent ------------------------------------ */
 d3.csv(
-  "https://raw.githubusercontent.com/trantien0410/Data-Visualization-Project/main/data/job_excellent.csv",
+  "https://raw.githubusercontent.com/trantien0410/Data-Visualization-Project/master/project/data/job_excellent.csv",
   function (data) {
     // Create barchart father good job element
     var barchart_fexcellent_fail = d3
@@ -223,7 +223,7 @@ d3.csv(
 
 /* ------------------------------------ Barchart of the mother job fail ------------------------------------ */
 d3.csv(
-  "https://raw.githubusercontent.com/trantien0410/Data-Visualization-Project/main/data/job_fail.csv",
+  "https://raw.githubusercontent.com/trantien0410/Data-Visualization-Project/master/project/data/job_fail.csv",
   function (data) {
     // Create barchart father job fail element
     var barchart_mjob_fail = d3
@@ -277,7 +277,7 @@ d3.csv(
 
 /* ------------------------------------ Barchart of the mother job medium ------------------------------------ */
 d3.csv(
-  "https://raw.githubusercontent.com/trantien0410/Data-Visualization-Project/main/data/job_medium.csv",
+  "https://raw.githubusercontent.com/trantien0410/Data-Visualization-Project/master/project/data/job_medium.csv",
   function (data) {
     // Create barchart mother job medium element
     var barchart_mmedium_fail = d3
@@ -331,7 +331,7 @@ d3.csv(
 
 /* ------------------------------------ Barchart of the mother job good ------------------------------------ */
 d3.csv(
-  "https://raw.githubusercontent.com/trantien0410/Data-Visualization-Project/main/data/job_good.csv",
+  "https://raw.githubusercontent.com/trantien0410/Data-Visualization-Project/master/project/data/job_good.csv",
   function (data) {
     // Create barchart mother job good element
     var barchart_mgood_fail = d3
@@ -385,7 +385,7 @@ d3.csv(
 
 /* ------------------------------------ Barchart of the mother job excellent ------------------------------------ */
 d3.csv(
-  "https://raw.githubusercontent.com/trantien0410/Data-Visualization-Project/main/data/job_excellent.csv",
+  "https://raw.githubusercontent.com/trantien0410/Data-Visualization-Project/master/project/data/job_excellent.csv",
   function (data) {
     // Create barchart mother job excellent element
     var barchart_mexcellent_fail = d3
