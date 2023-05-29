@@ -1,0 +1,67 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: linear-gradient(to right, #3498db, #4c6e8f);
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: "Open Sans", sans-serif;
+  font-size: 1 rem;
+  color: #574545;
+}
+
+h5 {
+  color: brown;
+  font-size: 0em;
+}
+
+p {
+  text-align: center;
+}
+
+.customer-container {
+  border: 1px solid black;
+  border-radius: 5px;
+  box-sizing: border-box;
+  background-color: aliceblue;
+  margin: auto;
+  padding: 20px;
+  width: 96%;
+}
+
+.col-left {
+  border: 1px solid black;
+  border-radius: 10px;
+  float: left;
+  width: 49%;
+  margin-top: 6px;
+}
+
+.col-right {
+  border: 1px solid black;
+  border-radius: 10px;
+  float: right;
+  width: 49%;
+  margin-top: 6px;
+}
+
+.customer-row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.border {
+  border: 1px solid black;
+  padding: 15px;
+}
+
+.font {
+  font-family: "Open Sans", sans-serif;
+  font-size: larger;
+}
