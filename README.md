@@ -13,6 +13,9 @@ The final purpose is to give a message that judging a student only by his/her gr
 
 <hr>
 
+### Data Sources
+* [Student Performance Dataset](https://www.kaggle.com/datasets/devansodariya/student-performance-data)
+
 ### Attributes in my data
 Attributes for both student-mat.csv (Math course) and student-por.csv (Portuguese language course) datasets: 
 1. school - student's school (binary: "GP" - Gabriel Pereira or "MS" - Mousinho da Silveira)
