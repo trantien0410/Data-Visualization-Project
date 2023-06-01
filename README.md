@@ -1,23 +1,27 @@
-# DSDV_Project
+# :blush: Data Science and Data Visualization Project :100:
+
 ## Topic: How ambient factors affect student's performance
 
 <hr>
 
-### STORY & IDEA 
+### STORY & IDEA
 
-Throughout our studying process at school, the grading system was always the main factor that was used to judge the students’ level, ability, or even their intelligence. But, does a student’s grade reflect their ability or intelligence. Well, we would say sometimes it does, but not most of the time.
+The grading system was always the key component utilized to measure the pupils' level, competence, or even IQ throughout our schooling process. However, does a student's grade accurately reflect their ability or intelligence? We'd say it does occasionally, but not most of the time.
 
-The idea of our project is to point out that judging a student only by his/her grade is very wrong. By visualizing the data, we will show the relationship between student’s grade and their background factors - such as their family, parent, age, and many other factors. Hopefully, through our visualization, the audience can see a strong relationship between these ambient factors and the student’s performance at school.
+Our project's goal is to demonstrate that assessing a student only on his or her grade is incorrect. We will visualize the data to highlight the association between a student's grade and their background characteristics such as family, parent, age, and many more. Hopefully, the audience will be able to detect a significant association between these environmental elements and the student's academic achievement as a result of our depiction.
 
-The final purpose is to give a message that judging a student only by his/her grade is totally inaccurate. Since a student’s grade can be strongly affected by their background, situation, and many other ambient factors.
+The ultimate goal is to convey the notion that assessing a student only on his or her grade is completely wrong. Because a student's grade may be heavily influenced by their history, situation, and a variety of other environmental factors.
 
 <hr>
 
 ### Data Sources
-* [Student Performance Dataset](https://www.kaggle.com/datasets/devansodariya/student-performance-data)
+
+- [Student Performance Dataset](https://www.kaggle.com/datasets/devansodariya/student-performance-data)
 
 ### Attributes in my data
-Attributes for both student-mat.csv (Math course) and student-por.csv (Portuguese language course) datasets: 
+
+Attributes for both student-mat.csv (Math course) and student-por.csv (Portuguese language course) datasets:
+
 1. school - student's school (binary: "GP" - Gabriel Pereira or "MS" - Mousinho da Silveira)
 2. sex - student's sex (binary: "F" - female or "M" - male)
 3. age - student's age (numeric: from 15 to 22)
