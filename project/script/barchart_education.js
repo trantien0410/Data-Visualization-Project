@@ -230,4 +230,3 @@ d3.csv(
       .attr("alignment-baseline", "middle");
   }
 );
-
